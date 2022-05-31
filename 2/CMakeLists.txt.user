@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.0, 2022-05-31T15:23:08. -->
+<!-- Written by QtCreator 7.0.0, 2022-05-31T15:55:04. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -106,7 +106,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -152,7 +152,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Desktop_Qt_5_15_2_MSVC2019_32bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Desktop_Qt_5_15_2_MSVC2019_32bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -196,7 +196,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Desktop_Qt_5_15_2_MSVC2019_32bit-RelWithDebInfo</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Desktop_Qt_5_15_2_MSVC2019_32bit-RelWithDebInfo</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -240,7 +240,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Desktop_Qt_5_15_2_MSVC2019_32bit-MinSizeRel</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Desktop_Qt_5_15_2_MSVC2019_32bit-MinSizeRel</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -313,15 +313,15 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">1</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.1</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">1</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.2</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">2</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/private_projects/skillbox/cpp_39.4/build-1-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/private_projects/skillbox/cpp_39.4/build-2-Desktop_Qt_5_15_2_MSVC2019_32bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
@@ -345,7 +345,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Qt_5_15_2_WebAssembly-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Qt_5_15_2_WebAssembly-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -389,7 +389,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Qt_5_15_2_WebAssembly-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Qt_5_15_2_WebAssembly-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -433,7 +433,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Qt_5_15_2_WebAssembly-RelWithDebInfo</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Qt_5_15_2_WebAssembly-RelWithDebInfo</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -477,7 +477,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-1-Qt_5_15_2_WebAssembly-MinSizeRel</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:\private_projects\skillbox\cpp_39.4\build-2-Qt_5_15_2_WebAssembly-MinSizeRel</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
